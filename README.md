@@ -47,8 +47,9 @@ This is a simple **content-based movie recommender system** built using **Python
 4.The function recommend(movie_title) prints the top 5 most similar movies.
 
 
-📋 Sample Output
-Movie Dataset:
+**📋 Sample Output**
+**
+Movie Dataset:**
                title                    genres
 0            Titanic             Romance Drama
 1  Avengers: Endgame     Action Adventure Sci-Fi
@@ -61,7 +62,7 @@ Movie Dataset:
 8          Inception      Action Sci-Fi Thriller
 9       The Godfather               Crime Drama
 
-Recommendations for 'Titanic':
+**Recommendations for 'Titanic':**
 - The Notebook (Similarity: 1.00)
 - La La Land (Similarity: 0.71)
 - Interstellar (Similarity: 0.50)
